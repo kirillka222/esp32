@@ -25,3 +25,6 @@
    ```bash
    python visualizer.py
    ```
+
+   ## Запуск через онлайн-эмулятор
+   Для запуска main.py и diagram.json из папки wokwi, необходимо вставить код на платформе https://wokwi.com/
